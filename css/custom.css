@@ -1,0 +1,8 @@
+* {
+  display: block;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: lowercase;
+  font-weight: 700;
+  font-size: 2em;
+  color : black;
+}
