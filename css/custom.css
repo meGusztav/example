@@ -1,8 +1,12 @@
-* {
-  display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: lowercase;
-  font-weight: 700;
-  font-size: 2em;
-  color : black;
-}
+
+ header {
+   text-align: center;
+   background: rgb(12,34,48) !important;
+   color: white;
+ }
+
+
+ section.success {
+ background: rgb(12,34,48) !important;
+   color: white;
+ }
