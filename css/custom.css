@@ -2,8 +2,10 @@
 p {
   font-size: 20px;
 }
-header {
-  text-align: center;
-  background: #18BC9C;
-  color: white;
+.navbar-custom {
+  background: #2C3E50;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: none;
 }
