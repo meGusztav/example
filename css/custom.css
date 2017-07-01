@@ -3,7 +3,7 @@ p {
   font-size: 20px;
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #000000;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -12,11 +12,18 @@ p {
 
 footer .footer-above {
   padding-top: 50px;
-  background-color: #0c3e50;
+  background-color: #000000;
 }
 
 
 footer .footer-below {
   padding: 25px 0;
-  background-color: #0c3e50;
+  background-color: #000000;
+}
+
+
+header {
+  text-align: center;
+  background: #000000;
+  color: white;
 }
