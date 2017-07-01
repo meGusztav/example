@@ -12,5 +12,11 @@ p {
 
 footer .footer-above {
   padding-top: 50px;
-  background-color: #FFFF;
+  background-color: #0c3e50;
+}
+
+
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #0c3e50;
 }
