@@ -1,4 +1,9 @@
 
 p {
-  font-size: 19px;
+  font-size: 20px;
+}
+header {
+  text-align: center;
+  background: #18BC9C;
+  color: white;
 }
