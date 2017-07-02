@@ -10,3 +10,10 @@
  background: rgb(12,34,48) !important;
    color: white;
  }
+
+
+ #portfolio .portfolio-item {
+   margin: 0 0 15px;
+   right: 0;
+   background: rgb(186,171,143)
+ }
